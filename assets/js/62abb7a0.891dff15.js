@@ -1,0 +1,1 @@
+(self.webpackChunkfullstack_notes=self.webpackChunkfullstack_notes||[]).push([[659],{8191:function(l){"use strict";l.exports=JSON.parse('{"allTagsPath":"/fullstack-notes/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/fullstack-notes/blog/tags/hello"}')}}]);

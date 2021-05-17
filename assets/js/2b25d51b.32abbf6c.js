@@ -1,0 +1,1 @@
+(self.webpackChunkfullstack_notes=self.webpackChunkfullstack_notes||[]).push([[935],{6353:function(l){"use strict";l.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/fullstack-notes/blog/welcome"},{"title":"Hello","permalink":"/fullstack-notes/blog/hello-world"},{"title":"Hola","permalink":"/fullstack-notes/blog/hola"}]}')}}]);

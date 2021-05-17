@@ -1,0 +1,1 @@
+(self.webpackChunkfullstack_notes=self.webpackChunkfullstack_notes||[]).push([[907],{7753:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/fullstack-notes/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/fullstack-notes/blog/tags/facebook"}')}}]);

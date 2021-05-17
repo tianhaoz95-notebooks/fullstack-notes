@@ -1,0 +1,1 @@
+(self.webpackChunkfullstack_notes=self.webpackChunkfullstack_notes||[]).push([[829],{7554:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/fullstack-notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
